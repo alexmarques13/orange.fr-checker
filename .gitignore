@@ -1,0 +1,26 @@
+# Checker data
+combos.txt
+result/
+
+# Secrets
+.env
+
+# Build output
+orange_login.exe
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go
+*.test
+*.out
+/vendor/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
